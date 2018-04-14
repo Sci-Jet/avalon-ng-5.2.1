@@ -36,7 +36,7 @@
     "primeng": "5.2.3"
   },
   "devDependencies": {
-    "@angular/cli": "1.6.5",
+    "@angular/cli": "1.7.3",
     "@angular/compiler-cli": "5.2.0",
     "@types/jasmine": "2.5.53",
     "@types/jasminewd2": "2.0.2",
